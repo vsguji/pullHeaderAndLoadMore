@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  LPPullRefreshTableView
+
+  Created by lipeng on 2018/4/14.
+  Copyright © 2018年 lipeng. All rights reserved.
+*/
+/* lp refresh header */
+
+"Last Updated" = "上次刷新时间";
+
+"to refresh..." = "释放立即刷新";
+
+"pull down..." = "下拉刷新";
+
+"pull loading..." = "正在刷新";
+
+/* lp refresh footer */
+"release to load more"  = "释放立即加载更多";
+
+"up to load more" = "上拉加载更多";
+
+"loading more" = "正在加载更多";
+
